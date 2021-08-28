@@ -20,3 +20,5 @@ driver = webdriver.Chrome('/home/akshay/Downloads/chromedriver')
 # src = img.get_attribute('src')
 # urllib.request.urlretrieve(src, 'image.png')
 # ---------------------video extraction--------------------------------------------------
+
+driver.get('https://instagram.com')
