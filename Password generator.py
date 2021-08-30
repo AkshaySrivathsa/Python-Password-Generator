@@ -1,4 +1,4 @@
-"""---------------Password generator---------------"""
+"""---------------Phoenix Password generator---------------"""
 
 import random
 while True:
